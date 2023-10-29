@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashbhau35
-- 👀 I’m interested in java and C++
-- 🌱 I’m currently learning ...Java,C++ and all that btech has to offer 
+- 👀 I’m interested in java and kotlin
+- 🌱 I’m currently learning Java,kotlin, android development and all that btech has to offer 
 
 
 
